@@ -1,4 +1,4 @@
-# Bộ lọc thư rác Naïve Bayes (Đề tài 42 – Nhóm 16, môn Trí tuệ nhân tạo)
+# Bộ lọc thư rác Naïve Bayes (Đề tài 42 – Nhóm 9, môn Trí tuệ nhân tạo)
 
 Chương trình phân loại thư điện tử / tin nhắn SMS thành **HAM** hoặc **SPAM** bằng Naïve Bayes
 (Multinomial và Bernoulli) do nhóm **tự cài đặt** bằng NumPy/SciPy (scikit-learn chỉ dùng để đối chứng).
