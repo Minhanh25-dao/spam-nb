@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.3   # chỉ dùng để đối chứng/so sánh, không dùng trong lõi thuật toán
+matplotlib>=3.8     # chỉ cần khi vẽ lại biểu đồ (make_figures.py)
